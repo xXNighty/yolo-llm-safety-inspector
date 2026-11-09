@@ -1,0 +1,19 @@
+# 虚拟环境
+venv/
+__pycache__/
+
+# IDE配置
+.idea/
+
+# 数据集及训练结果（太大，不传）
+data/
+runs/
+result/
+VOC2028_YOLO/
+
+# 官方预训练模型
+yolov8n.pt
+
+# 临时文件
+uploaded_image.jpg
+result_image.jpg
